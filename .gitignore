@@ -3,3 +3,4 @@ data/raw/
 out/
 __pycache__/
 .env
+blog/

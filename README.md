@@ -23,4 +23,4 @@ ollama pull qwen2.5:7b-instruct
 .venv/bin/python src/snapshot.py 2026-08-25 2026-09-25
 ```
 
-See the write-up for results.
+Write-up with results: https://akhilbod.github.io/writing/review-summarizer.html
